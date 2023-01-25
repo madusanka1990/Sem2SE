@@ -9,3 +9,14 @@ H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\Sens
 H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
 H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.exe
 H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.pdb
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.exe.config
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.exe
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.pdb
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.AssemblyReference.cache
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.SuggestedBindingRedirects.cache
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.Form1.resources
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.Properties.Resources.resources
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.GenerateResource.cache
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.exe
+E:\USN\Semester 2\Software Engineering\GitHub\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.pdb
