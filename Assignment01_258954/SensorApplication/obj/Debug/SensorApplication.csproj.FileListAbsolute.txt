@@ -1,0 +1,11 @@
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.exe.config
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.exe
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\bin\Debug\SensorApplication.pdb
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.AssemblyReference.cache
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.Form1.resources
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.Properties.Resources.resources
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.GenerateResource.cache
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.exe
+H:\My Drive\USN\Sem 2\Software Engineering\Assignment 1\Assignment01_258954\SensorApplication\obj\Debug\SensorApplication.pdb

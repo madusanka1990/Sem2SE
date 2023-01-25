@@ -145,7 +145,7 @@ namespace SensorApplication
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("File is open / Cannot access the file");
+                    MessageBox.Show("File is open / cannot access the file");
                     return;
                 }
             }
