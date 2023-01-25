@@ -1,0 +1,7 @@
+git init
+git status
+git add -A
+git status
+git commit -m "Assignment 1"
+git remote add origin https://github.com/madusanka1990/Sem2SE.git
+git push -f origin master
